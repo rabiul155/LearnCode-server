@@ -22,6 +22,12 @@ app.get('/cource/:id', (req, res) => {
     res.send(cource);
 })
 
+app.get('/premium/:id', (req, res) => {
+    const id = req.params.id;
+    const cource = cources.find(singleCource => singleCource.id === id)
+    res.send(cource);
+})
+
 
 
 app.listen(port, () => {
