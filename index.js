@@ -22,7 +22,9 @@ async function run() {
         const courcesCollection = client.db("learn-code").collection("cources")
 
         app.get('/cources', async (req, res) => {
-            const query = {};
+            const courseId = req.query.courseId;
+            console.log(courseId);
+            const query = { courseId: courseId };
             const result = await courcesCollection.find(query).toArray()
             res.send(result);
 

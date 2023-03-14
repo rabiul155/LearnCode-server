@@ -1,6 +1,6 @@
 [
     {
-        "courseId": 1,
+        "courseId": "1",
         "picture": "https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw",
         "name": "Learn HTML in 7 days",
         "price": 290,
@@ -9,10 +9,10 @@
         "rating": 4,
         "tutorName": "Jhankar Mahbub",
         "tutorImg": "https://i.ibb.co/ncbyJgG/download.jpg",
-        "details": "The first version of HTML was written by Tim Berners-Lee in 1993. Since then, there have been many different versions of HTML. The most widely used version throughout the 2000's was HTML 4.01, which became an official standard in December 1999.Another version, XHTML, was a rewrite of HTML as an XML language. XML is a standard markup language that is used to create other markup languages. Hundreds of XML languages are in use today, including GML (Geography Markup Language), MathML, MusicML, and RSS (Really Simple Syndication).\r\n"
+        "details": "Dear learner, I wanted to take a moment to recommend the HTML course from the perspective of a course tutor. As someone who has experience teaching HTML to students of all levels, I can confidently say that this course is an excellent resource for anyone looking to learn HTML. One of the strengths of this course is its emphasis on hands-on learning. Throughout the course, you'll have ample opportunity to practice writing HTML code, and you'll receive feedback on your work from experienced instructors. This approach helps to reinforce your learning and ensures that you're building a solid foundation of HTML skills. Another benefit of this course is its comprehensive curriculum. By the end of the course, you'll have a thorough understanding of HTML, including how to create headings, paragraphs, links, images, and lists, as well as how to structure your code properly. This knowledge will enable you to create web pages that are well-organized and easy to navigate.Overall, if you're looking for a high-quality HTML course that combines hands-on learning with comprehensive instruction, I highly recommend this course.\r\n"
     },
     {
-        "courseId": 1,
+        "courseId": "1",
         "picture": "https://cdn-icons-png.flaticon.com/512/919/919826.png?w=360",
         "name": "CSS beginnign to advance",
         "price": 300,
@@ -21,10 +21,10 @@
         "rating": 4.5,
         "tutorName": "Anisul Islam",
         "tutorImg": "https://i.ibb.co/86KDWsY/unnamed.jpg",
-        "details": "CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting.\r\n"
+        "details": "Dear learner, As a course tutor with experience teaching CSS, I highly recommend this CSS course. This course is an excellent resource for anyone looking to learn the fundamentals of CSS, the language used to style and format web pages.One of the strengths of this course is its focus on practical, real-world applications. Throughout the course, you'll learn how to use CSS to create attractive and functional web designs, with a particular emphasis on responsive design techniques. You'll also have plenty of opportunities to practice your skills by completing hands-on exercises and projects.Another benefit of this course is its comprehensive curriculum. By the end of the course, you'll have a solid understanding of CSS, including how to work with selectors, styles, and layout properties. You'll also learn how to use CSS frameworks and preprocessors, which can help you work more efficiently and effectively.Overall, if you're looking for a high-quality CSS course that combines practical instruction with comprehensive coverage of the topic, I highly recommend this course..\r\n"
     },
     {
-        "courseId": 1,
+        "courseId": "1",
         "picture": "https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1&w=640",
         "name": "Fun With JavaScript",
         "price": 550,
@@ -33,10 +33,10 @@
         "rating": 5,
         "tutorName": "Harry ",
         "tutorImg": "https://i.ibb.co/3m2wr2F/unnamed-1.jpg",
-        "details": "JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[10] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model .JavaScript engines were originally used only in web browsers, but are now core components of some servers and a variety of applications. The most popular runtime system for this usage is Node.js.\r\n"
+        "details": "As a course tutor with experience teaching JavaScript, I highly recommend this JavaScript course. This course is an excellent resource for anyone looking to learn the fundamentals of JavaScript, the language used to create dynamic and interactive web pages. One of the strengths of this course is its focus on practical, real-world applications. Throughout the course, you'll learn how to use JavaScript to create engaging user experiences, with a particular emphasis on web forms, animations, and event handling. You'll also have plenty of opportunities to practice your skills by completing hands-on exercises and projects.Another benefit of this course is its comprehensive curriculum. By the end of the course, you'll have a solid understanding of JavaScript, including how to work with variables, data types, control structures, and functions. You'll also learn how to work with the Document Object Model (DOM), which is essential for creating interactive web pages.Overall, if you're looking for a high-quality JavaScript course that combines practical instruction with comprehensive coverage of the topic, I highly recommend this course..\r\n"
     },
     {
-        "courseId": 1,
+        "courseId": "1",
         "picture": "https://w7.pngwing.com/pngs/403/269/png-transparent-react-react-native-logos-brands-in-colors-icon.png",
         "name": "React for bugineer",
         "price": 600,
@@ -45,10 +45,10 @@
         "rating": 5,
         "tutorName": "Anisul Islam",
         "tutorImg": "https://i.ibb.co/86KDWsY/unnamed.jpg",
-        "details": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.\r\n"
+        "details": "Dear learner,As a course tutor with experience teaching React, I highly recommend this React course. This course is an excellent resource for anyone looking to learn how to build modern, interactive web applications using React, a popular JavaScript library.One of the strengths of this course is its focus on practical, real-world applications. Throughout the course, you'll learn how to use React to create dynamic and responsive user interfaces, with a particular emphasis on creating reusable components and managing state. You'll also have plenty of opportunities to practice your skills by completing hands-on exercises and projects.Another benefit of this course is its comprehensive curriculum. By the end of the course, you'll have a solid understanding of React, including how to work with JSX, components, props, state, and lifecycle methods. You'll also learn how to use popular tools like React Router and Redux, which can help you build more complex applications.Overall, if you're looking for a high-quality React course that combines practical instruction with comprehensive coverage of the topic, I highly recommend this course..\r\n"
     },
     {
-        "courseId": 1,
+        "courseId": "1",
         "picture": "https://cdn-icons-png.flaticon.com/512/919/919825.png",
         "name": "Learn Node Js beginnig to advance ",
         "price": 900,
@@ -57,10 +57,10 @@
         "rating": 4.5,
         "tutorName": "Harry ",
         "tutorImg": "https://i.ibb.co/3m2wr2F/unnamed-1.jpg",
-        "details": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine (i.e. V8 engine) and executes JavaScript code outside a web browser, which was designed to build scalable network applications. Node.js lets developers use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web page content before the page is sent to the user's web browser. Consequently, Node.js represents a JavaScript everywhere paradigm,[6] unifying web-application development around a single programming language, rather than different languages for server-side and client-side scripts.\r\n"
+        "details": "Dear learner,As a course tutor with experience teaching Node.js, I highly recommend this Node.js course. This course is an excellent resource for anyone looking to learn how to build scalable, high-performance web applications using Node.js, a popular server-side JavaScript runtime.One of the strengths of this course is its focus on practical, real-world applications. Throughout the course, you'll learn how to use Node.js to build server-side applications, with a particular emphasis on creating RESTful APIs and working with databases. You'll also have plenty of opportunities to practice your skills by completing hands-on exercises and projects.Another benefit of this course is its comprehensive curriculum. By the end of the course, you'll have a solid understanding of Node.js, including how to work with modules, callbacks, streams, and middleware. You'll also learn how to use popular frameworks like Express.js and databases like MongoDB, which can help you build more complex applications.Overall, if you're looking for a high-quality Node.js course that combines practical instruction with comprehensive coverage of the topic, I highly recommend this course..\r\n"
     },
     {
-        "courseId": 2,
+        "courseId": "2",
         "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png",
         "name": "Python full course for beginners",
         "price": 1200,
@@ -69,6 +69,6 @@
         "rating": 4.5,
         "tutorName": "Anisul Islam",
         "tutorImg": "https://i.ibb.co/86KDWsY/unnamed.jpg",
-        "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation.Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a batteries included language due to its comprehensive standard library\r\n"
+        "details": "Dear learner,As a course tutor with experience teaching Python, I highly recommend this Python course. This course is an excellent resource for anyone looking to learn the fundamentals of Python, a versatile and popular programming language used in a variety of fields, including data science, web development, and automation.One of the strengths of this course is its focus on practical, real-world applications. Throughout the course, you'll learn how to use Python to solve problems and build useful applications, with a particular emphasis on data analysis and visualization. You'll also have plenty of opportunities to practice your skills by completing hands-on exercises and projects.Another benefit of this course is its comprehensive curriculum. By the end of the course, you'll have a solid understanding of Python, including how to work with data types, control structures, functions, and modules. You'll also learn how to use popular libraries like NumPy, Pandas, and Matplotlib, which are essential for data analysis and visualization.Overall, if you're looking for a high-quality Python course that combines practical instruction with comprehensive coverage of the topic, I highly recommend this course.\r\n"
     }
 ]
