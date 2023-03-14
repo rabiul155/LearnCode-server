@@ -23,7 +23,6 @@ async function run() {
 
         app.get('/cources', async (req, res) => {
             const courseId = req.query.courseId;
-            console.log(courseId);
             const query = { courseId: courseId };
             const result = await courcesCollection.find(query).toArray()
             res.send(result);
