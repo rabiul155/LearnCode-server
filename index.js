@@ -20,6 +20,7 @@ async function run() {
     try {
 
         const courcesCollection = client.db("learn-code").collection("cources")
+        const enrolledCourcesCollection = client.db("learn-code").collection("enrolled")
 
         app.get('/cources', async (req, res) => {
             const courseId = req.query.courseId;
@@ -45,6 +46,27 @@ async function run() {
             res.send(cource);
         })
 
+
+        app.get('/enrolled', async (req, res) => {
+            const email = req.query.email;
+            const query = { student: email }
+            const result = await enrolledCourcesCollection.find(query).toArray()
+            res.send(result);
+        })
+
+        app.post('/enrolled', async (req, res) => {
+            const cource = req.body;
+            const result = await enrolledCourcesCollection.insertOne(cource)
+            res.send(result);
+        })
+
+
+        app.delete('/deleteEnrolled', async (req, res) => {
+            const id = req.query.courceId;
+            const query = { _id: new ObjectId(id) }
+            const result = await enrolledCourcesCollection.deleteOne(query);
+            res.send(result);
+        })
 
 
 
